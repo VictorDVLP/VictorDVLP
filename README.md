@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @VictorDVLP
-- 👀 I’m interest  el  desarrollo  de  aplicaciones  moviles 
--- 💞️   Llevó  3  años  formandome  a  traves  del  curso "Android Basics in Kotlin", "Advanced Android in Kotlin", actualmente sigo los cursos de devExpert para seguir formandome a la espera de una oportunidad laboral como desarrollador Android .
-- 📫 Se puede contacta  conmigo a través del correo  crespo.9.11.88@gmail.com
+# 👋 Hi, I’m @VictorDVLP
+##👀 Passionate Android Developer with a strong focus on software architecture. Solid understanding of Kotlin, Jetpack Compose, Multiplatform, and testing. Experienced in implementing design patterns like MVVM and crafting clean, maintainable, and scalable architectures adhering to SOLID principles. Skilled in using tools such as Dagger Hilt, Retrofit, and Room. I'm a creative problem-solver who enjoys working in agile environments.
 
-<!---
-VictorDVLP/VictorDVLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
