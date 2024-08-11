@@ -4,7 +4,13 @@
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3D0C84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-3D0C84?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-3D0C84?style=for-the-badge&logo=compose&logoColor=white&labelColor=101010)</br>
-![Testing](https://img.shields.io/badge/Testing-3D0C84?style=for-the-badge&logo=test&logoColor=white&labelColor=101010)</br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3D0C84?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)</br>
+![Testing](https://img.shields.io/badge/Testing-3D0C84?style=for-the-badge&logoColor=white&labelColor=101010)</br>
+
+## Find me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3D0C84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victor-android-architect/)
+
+## Contact me:
+[![Email](https://img.shields.io/badge/Mail-3D0C84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](victor.dev.kqm@gmail.com)
 
 
