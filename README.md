@@ -8,9 +8,9 @@
 ![Testing](https://img.shields.io/badge/Testing-3D0C84?style=for-the-badge&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3D0C84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victor-android-architect/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victor-android-architect/)
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/Mail-3D0C84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](victor.dev.kqm@gmail.com)
+[![Email](https://img.shields.io/badge/Mail-F28B82?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](victor.dev.kqm@gmail.com)
 
 
